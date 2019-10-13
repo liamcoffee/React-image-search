@@ -1,5 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Info
+
+A simple react project to grab photos from [unsplash.com] and display utalising css grid. Demo here:
+[http://206.189.18.205/imagesearch/]
 ## Available Scripts
 
 In the project directory, you can run:
